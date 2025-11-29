@@ -1,0 +1,42 @@
+.backery-name {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+.container img {
+  width: 100px;
+}
+
+.container p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: large;
+}
+
+.type {
+  font-weight: bold;
+}
+
+body {
+  color: #452829 !important;
+}
+
+.list-menu {
+  border: 3px solid #452829;
+  border-radius: 10px;
+}
+
+.btn-light {
+  background-color: #452829 !important;
+  color: white !important;
+  font-weight: bold !important;
+}
+
+button:hover {
+  background-color: darkred !important;
+  color: white !important;
+}
+
+.harga {
+  font-size: 100px;
+}
